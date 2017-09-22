@@ -1,0 +1,49 @@
+h1{
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Quicksand', sans-serif;
+  color: #85f92c;
+}
+h2{
+  font-size: 40px;
+   color: #85f92c;
+   font-family: 'Hind', sans-serif;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+body{
+    background-color:#fc3f19;
+
+
+
+}
+
+ul{
+   font-family: 'Hind', sans-serif;
+  font-size: 17px;
+  color: #ffe500;
+}
+
+
+ol{
+  font-family: 'Hind', sans-serif;
+ font-size: 17px;
+ color: #ffe500;
+
+}
